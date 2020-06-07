@@ -1,0 +1,16 @@
+{
+  "name": "WebSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://433-think.github.io/firstWebsite",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}

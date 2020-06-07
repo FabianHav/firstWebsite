@@ -1,0 +1,32 @@
+html {
+    font-size: 16px;
+    background-color: floralwhite;
+}
+
+body {
+    margin: 0;
+}
+
+.col-1 { width: 16.666%; }
+.col-2 { width: 33.333%; }
+.col-3 { width: 50%; }
+.col-4 { width: 66.666%; }
+.col-6 { width: 100%; }
+
+.container {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 40px;
+}
+
+h1 {
+    margin-bottom: 10px ;
+}
+
+p {
+    margin: 5px;
+    padding-left: 5px;
+}
